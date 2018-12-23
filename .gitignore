@@ -2,6 +2,7 @@
 node_modules
 /dist
 /src/_secrets
+/src/_config
 
 /tests/e2e/reports/
 selenium-debug.log
